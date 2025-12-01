@@ -32,6 +32,8 @@ Select customer & product
 
 Add items to order
 
+Validates stock availability
+
 Total calculation
 
 Generate order summary
