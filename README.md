@@ -112,18 +112,3 @@ java MainFrame
 
 
 
-👩‍💻 Developed By
-
-Meghana Shaly
-
-Sanviya Varghese
-
-Sudhev Sujith
-
-Vyshnavi S
-
-Chriswin K T
-
-
-
----
